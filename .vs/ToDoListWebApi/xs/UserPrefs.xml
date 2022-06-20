@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{E29C05DB-65BC-4063-99A8-A56D1A20A4D9}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ToDoListWebApi/Startup.cs">
+    <Files>
+      <File FileName="ToDoListWebApi/Models/ToDoList.cs" Line="1" Column="1" />
+      <File FileName="ToDoListWebApi/Controllers/ToDoListController.cs" Line="15" Column="68" />
+      <File FileName="ToDoListWebApi/Properties/launchSettings.json" Line="2" Column="47" />
+      <File FileName="ToDoListWebApi/appsettings.json" Line="1" Column="1" />
+      <File FileName="ToDoListWebApi/Program.cs" Line="1" Column="1" />
+      <File FileName="ToDoListWebApi/Startup.cs" Line="58" Column="30" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ToDoListWebApi" expanded="True">
+            <Node name="ToDoListWebApi" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" selected="True" />
+                <Node name="PackageDependencies" expanded="True">
+                  <Node name="NSwag.AspNetCore" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ToDoListWebApi PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
